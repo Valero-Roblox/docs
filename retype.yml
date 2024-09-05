@@ -15,5 +15,8 @@ links:
   - text: Contact Us
     link: https://valerorblx.xyz/#contact
 favicon: /static/favicon.ico
+editor:                       
+                              
+  enabled: true               
 footer:
   copyright: "&copy; Copyright Valero Roblox. All rights reserved."
