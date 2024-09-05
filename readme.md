@@ -1,2 +1,2 @@
-# Welcome to the Valero Documentation!
+# Valero Docs
 This website is in development.
