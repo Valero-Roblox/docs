@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: docs.valerorblx.xyz
 branding:
-  logo: images/valero.png
+  logo: /static/logo.png
   label: Docs
 links:
   - text: Valero Website
