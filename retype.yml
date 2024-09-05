@@ -3,7 +3,7 @@ output: .retype
 url: docs.valerorblx.xyz
 branding:
   logo: /static/logo.png
-  label: Docs
+  label: Documentation
 links:
   - text: Valero Website
     link: https://valerorblx.xyz
