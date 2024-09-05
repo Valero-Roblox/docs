@@ -1,0 +1,17 @@
+input: .
+output: .retype
+url: docs.valerorblx.xyz
+branding:
+  logo: images/valero.png
+  label: Docs
+links:
+  - text: Valero Website
+    link: https://valerorblx.xyz
+  - text: Discord
+    link: https://discord.gg/valero-712678155470766170
+  - text: Github
+    link: https://github.com/Valero-Roblox/
+  - text: Contact Us
+    link: https://valerorblx.xyz/#contact
+footer:
+  copyright: "&copy; Copyright Valero Roblox. All rights reserved."
