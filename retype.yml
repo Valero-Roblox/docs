@@ -2,8 +2,9 @@ input: .
 output: .retype
 url: docs.valerorblx.xyz
 branding:
-  logo: /static/logo.png
-  label: Documentation
+  logo: /static/logo-light.png             
+  logoDark: /static/logo-dark.png    
+  label: Docs
 links:
   - text: Valero Website
     link: https://valerorblx.xyz
@@ -13,5 +14,6 @@ links:
     link: https://github.com/Valero-Roblox/
   - text: Contact Us
     link: https://valerorblx.xyz/#contact
+favicon: /static/favicon.ico
 footer:
   copyright: "&copy; Copyright Valero Roblox. All rights reserved."
