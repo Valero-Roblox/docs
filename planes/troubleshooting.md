@@ -1,3 +1,7 @@
+---
+label: "Troubleshooting"
+icon: info
+---
 # Troubleshooting:
 
 **Is your game a group game?**
