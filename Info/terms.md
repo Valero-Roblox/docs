@@ -1,4 +1,9 @@
-# Valero: Terms & Conditions
+---
+label: "Terms and Conditions"
+icon: book
+---
+
+# Terms and Conditions
 !!!warning
 By purchasing ANY of our products, you agree to the following statements:
 !!!
@@ -16,5 +21,5 @@ By purchasing ANY of our products, you agree to the following statements:
 - You understand all of our products are digital products that are sent to you through email by payhip once purchased. It is up to you to claim the whitelist on the products you have purchased. This can be done by going through the discord which is linked at the top of this page and the bottom and opening a ticket or direct messaging BritannicGO.
 
 !!!primary
-All aircraft are protected by a manual whitelist for your benefit. Once you have purchased the aicraft you will receive the file however head to https://discord.gg/lolee-s-plane-hub-642833559681368065 and open a modmail ticket.
+All aircraft are protected by a manual whitelist for your benefit. Once you have purchased your aircraft join https://discord.gg/lolee-s-plane-hub-642833559681368065 and open a modmail ticket to recieve your aircraft.
 !!!
